@@ -1,0 +1,138 @@
+.header{
+    width: 100%;
+    height: 80px;
+    background:#3b5998;
+
+}
+
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header p{
+    text-color: #fff;
+    text-align: center;
+}
+
+.logo-text{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;margin-left: 170px;
+}
+
+.logo{
+
+padding: 25px;
+float: left;
+}
+
+.login-label{
+
+    color: #fff;
+font-size: 11px;
+}
+
+
+.table-cotrol{
+    margin-left: 800px;
+
+
+}
+   
+.login{
+    padding: 10px;
+}
+.inside{
+    
+    font-size: 11px;
+    color: #fff;
+    text-decoration: none;
+
+}
+.submit{
+    background-color: #4267b2;
+    border: #29487d;
+    color: #fff;
+    cursor: pointer;
+}
+.submit:hover{
+    background-color: blueviolet;
+
+
+}
+
+.main-body{
+    background: linear-gradient(#fff,#d3d8e8);
+    width: 100%;
+    height:700px;
+}
+.left-section{
+    width: 50%;
+float: left;
+}
+.right-section{
+    width: 50%;
+    float: left;
+}
+.left-section img{
+
+width: 700px;
+padding-left: 100
+px
+;
+    padding-top: 60
+px
+;
+}
+.para{
+    size: 40
+px
+;
+    padding-top: 40
+px
+;
+    padding-left: 100
+px
+;}
+.right-section h1{
+    size: 300px;
+    }
+    .right-section p{
+        font-weight: bold;
+    }
+    .label input[type="text"]{
+        margin-top:13px;
+ margin-bottom:3px;
+ width:150px;
+ border:1px solid #08298A;
+ height:25px;
+ padding-left:3px;border-radius: 2px;border:1px solid #BDBDBD;
+    }
+
+    .label input[type="password"]{
+        margin-top: 17
+px
+;border:1px solid #BDBDBD;
+ margin-bottom:3px;
+ width:150px;
+ border:1px solid #08298A;
+ height:25px;
+ padding-left:3px;border-radius: 2px;
+
+ padding-right: 166px;
+    }
+
+    .label input[type="email"]{
+        padding-right: 153
+        px
+        ;
+        margin-top: 10px
+px
+;border:1px solid #BDBDBD;
+border-radius: 2px;
+    }
+    margin-top: 17
+px
+;
